@@ -1,0 +1,12 @@
+C:\Users\BRAYA\source\repos\GarPer.3CapasAzure.Entidades\bin\Debug\GarPer.3CapasAzure.Entidades.dll.config
+C:\Users\BRAYA\source\repos\GarPer.3CapasAzure.Entidades\bin\Debug\GarPer.3CapasAzure.Entidades.dll
+C:\Users\BRAYA\source\repos\GarPer.3CapasAzure.Entidades\bin\Debug\GarPer.3CapasAzure.Entidades.pdb
+C:\Users\BRAYA\source\repos\GarPer.3CapasAzure.Entidades\bin\Debug\EntityFramework.dll
+C:\Users\BRAYA\source\repos\GarPer.3CapasAzure.Entidades\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BRAYA\source\repos\GarPer.3CapasAzure.Entidades\bin\Debug\EntityFramework.xml
+C:\Users\BRAYA\source\repos\GarPer.3CapasAzure.Entidades\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BRAYA\source\repos\GarPer.3CapasAzure.Entidades\obj\Debug\GarPer.3CapasAzure.Entidades.csproj.AssemblyReference.cache
+C:\Users\BRAYA\source\repos\GarPer.3CapasAzure.Entidades\obj\Debug\GarPer.3CapasAzure.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\BRAYA\source\repos\GarPer.3CapasAzure.Entidades\obj\Debug\GarPer.3CapasAzure.Entidades.csproj.CopyComplete
+C:\Users\BRAYA\source\repos\GarPer.3CapasAzure.Entidades\obj\Debug\GarPer.3CapasAzure.Entidades.dll
+C:\Users\BRAYA\source\repos\GarPer.3CapasAzure.Entidades\obj\Debug\GarPer.3CapasAzure.Entidades.pdb
